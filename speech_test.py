@@ -16,3 +16,4 @@ if result.reason == speechsdk.ResultReason.RecognizedSpeech:
     print("🎤 Recognized text:", result.text)
 else:
     print("❌ Speech not recognized.")
+
