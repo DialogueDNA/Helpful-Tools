@@ -1,0 +1,81 @@
+Speaker A: You've made two Wonder Woman movies since the last time. Well, movie Wonder Woman. Are you.
+→ Emotion: neutral (84.8%)
+
+Speaker B: I feel like I was. Spit it out of a tornado. It's been a hell of a year. I'm so happy and grateful for this year that I had. We shot right after Keeping up with the Joneses, we shot the Wonder Woman movie, the solo one, which is gonna be out in June. And right when I finished that one, I started to shoot Justice League with everyone.
+→ Emotion: joy (95.0%)
+
+Speaker A: Right back in the costume.
+→ Emotion: neutral (76.5%)
+
+Speaker B: Right back in the costume. And we wrapped. I wrapped two weeks ago.
+→ Emotion: neutral (73.6%)
+
+Speaker A: How old is your daughter?
+→ Emotion: neutral (76.3%)
+
+Speaker B: 5.
+→ Emotion: neutral (85.8%)
+
+Speaker A: Does she know Mommy is Wonder Woman?
+→ Emotion: surprise (58.5%)
+
+Speaker B: She does.
+→ Emotion: neutral (81.4%)
+
+Speaker A: Is she sufficiently impressed by that?
+→ Emotion: surprise (89.9%)
+
+Speaker B: She's very proud. I don't think she understands the concept of everything.
+→ Emotion: neutral (58.7%)
+
+Speaker A: Well, who would really.
+→ Emotion: surprise (86.6%)
+
+Speaker B: And she would go to say, it's true. I don't either. But when we go to the Mommy.
+→ Emotion: neutral (69.0%)
+
+Speaker A: Making out with Isla Fisher, that's gonna be a crossroads moment. Yeah.
+→ Emotion: neutral (47.5%)
+
+Speaker B: But basically, Alma is very. My daughter is very proud. We go to the park and then she goes to. You know, kids, they try to make friends, so they go to the parents and they go. She goes, my mom is Wonder Woman. And then the parent would look at me strangely, not recognizing me, and I would go, you know, every mother is a Wonder Woman.
+→ Emotion: neutral (69.6%)
+
+Speaker A: My mother was more like the joke.
+→ Emotion: joy (35.4%)
+
+Speaker B: She did a good job.
+→ Emotion: neutral (76.9%)
+
+Speaker A: She did a good job. The jury is still out on that. Will your daughter dress as Wonder Woman for Halloween?
+→ Emotion: neutral (95.3%)
+
+Speaker B: No, she does not want to. She is going to be a unicorn.
+→ Emotion: disgust (48.4%)
+
+Speaker A: Will you dress as Wonder Woman for Halloween?
+→ Emotion: neutral (80.6%)
+
+Speaker B: No, I had enough of costume. I'm going to try something else.
+→ Emotion: neutral (67.9%)
+
+Speaker A: You have something in mind now?
+→ Emotion: surprise (52.7%)
+
+Speaker B: Yes, but I'm not going to say because I want to do the trick or treat. It's the first time we're in the.
+→ Emotion: neutral (70.4%)
+
+Speaker A: US you're gonna knock on doors?
+→ Emotion: surprise (54.2%)
+
+Speaker B: Yeah.
+→ Emotion: neutral (81.4%)
+
+Speaker A: Oh, my God. They better have paramedics standing by.
+→ Emotion: surprise (42.9%)
+
+Speaker B: I love chocolate. So I'm not gonna say what I'm gonna wear.
+→ Emotion: neutral (45.6%)
+
+Speaker A: I mean, if you came to my house, I'd give you my tv. Whatever. It wouldn't be limited to candy. Hi, I'm Jimmy Kimmel. If you enjoyed the video, hit subscribe. And if you don't click subscribe, this invisible hamster will die.
+→ Emotion: neutral (61.7%)
+
