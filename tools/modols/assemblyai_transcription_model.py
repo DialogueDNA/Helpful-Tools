@@ -16,3 +16,5 @@ class AssemblyTranscriber:
         config = aai.TranscriptionConfig(speaker_labels=speaker_labels)
         transcript = self.transcriber.transcribe(file_path, config=config)
         return transcript.text
+
+
